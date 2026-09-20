@@ -1,0 +1,6 @@
+{
+  "name": "Landsafe AI",
+  "description": "AI-Based Early Warning and Landslide Risk Monitoring System providing real-time telemetry, predictive risk assessments, and emergency early alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
